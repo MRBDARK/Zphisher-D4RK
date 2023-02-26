@@ -185,7 +185,6 @@ $ zphisher
 ### Find Me on:
 <p align="left">
   <a href="https://instagram.com/iam.d4rk.com_?" target="_blank"><img src="https://img.shields.io/badge/Socials-grey?style=for-the-badge&logo=linktree"></a>
-  <a href="https://github.com/MRBDARK" target="_blank"><img src="https://github.com/blob/main/images/dino_rounded.gif"></a>
-</p>
+  <a href="https://github.com/MRBDARK" target="_blank"><img src="![dino_rounded](https://user-images.githubusercontent.com/86645454/221396771-12f5d7ac-0967-41d1-afa8-53ac8bc18faf.gif)
+ "></a>
 
-https://github.com/SP-XD/SP-XD/blob/main/images/dino_rounded.gif
