@@ -185,7 +185,7 @@ $ zphisher
 ### Find Me on:
 <p align="left">
   <a href="https://tahmidrayat.is-a.dev" target="_blank"><img src="https://img.shields.io/badge/Socials-grey?style=for-the-badge&logo=linktree"></a>
-  <a href="https://github.com/htr-tech" target="_blank"><img src="https://img.shields.io/badge/Github-blue?style=for-the-badge&logo=github"></a>
+  <a href="https://github.com/htr-tech" target="_blank"><img src="https://github.com/SP-XD/SP-XD/blob/main/images/dino_rounded.gif"></a>
 </p>
 
-
+https://github.com/SP-XD/SP-XD/blob/main/images/dino_rounded.gif
