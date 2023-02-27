@@ -53,22 +53,7 @@ bash zphisher.sh
 
 
 
-##
-
-### Features
-
-- Latest and updated login pages.
-- Beginners friendly
-- Multiple tunneling options
-  - Localhost
-  - Ngrok
-  - Cloudflared
-  - LocalXpose
-- Mask URL support 
-- Docker support
-
-##
-
+#
 ### Installation
 
 - Just, Clone this repository -
@@ -96,7 +81,7 @@ $ zphisher
 ### A Note : 
 ***Termux discourages hacking*** .. So never discuss anything related to *zphisher* in any of the termux discussion groups. For more check : [wiki](https://wiki.termux.com/wiki/Hacking)
 
-##
+
 
 <p align="left">
   <a href="https://shell.cloud.google.com/cloudshell/open?cloudshell_git_repo=https://github.com/htr-tech/zphisher.git&tutorial=README.md" target="_blank"><img src="https://gstatic.com/cloudssh/images/open-btn.svg"></a>
@@ -138,37 +123,7 @@ $ zphisher
   ```
   $ curl -LO https://raw.githubusercontent.com/htr-tech/zphisher/master/run-docker.sh
   $ bash run-docker.sh
-  ```
-- Temporary Container
-
-  ```
-  docker run --rm -ti htrtech/zphisher
-  ```
-  - Remember to mount the `auth` directory.
-
-##
-
-<details>
-  <summary><h3>Dependencies</h3></summary>
-
-<b>Zphisher</b> requires following programs to run properly - 
-- `git`
-- `curl`
-- `php`
-
-> All the dependencies will be installed automatically when you run **Zphisher** for the first time.
-</details>
-
-<details>
-  <summary><h3>Tested on</h3></summary>
-
-- **Ubuntu**
-- **Debian**
-- **Arch**
-- **Manjaro**
-- **Fedora**
-- **Termux**
-</details>
+ 
 
 ##
 
